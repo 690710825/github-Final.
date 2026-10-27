@@ -1,2 +1,5 @@
-# github-Final.
-Final Lab Exam
+# My Profile 
+## About me
+- Nickname: Tonkla
+- Major: Computer science
+- Year: 1
